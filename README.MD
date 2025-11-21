@@ -66,7 +66,6 @@ Both contributors participated in the creative development, narration planning, 
 
 ## 🏫 Suitable For
 
-- Middle school and high school students  
 - STEM clubs and makerspaces  
 - Innovation and entrepreneurship programs  
 - Teachers looking for hands-on STEM content  
@@ -81,3 +80,4 @@ For collaboration, educational use, or extensions of this project, feel free to 
 ---
 
 ### 🌈 “Innovation doesn’t start with a lab. It starts with curiosity.”  
+
